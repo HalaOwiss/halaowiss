@@ -1,5 +1,5 @@
 <h1 align="center">Hala Owiss</h1>
-<h3 align="center">AI Master's Student | Software Developer | NLP & ML Enthusiast</h3>
+<h3 align="center">AI Master's Student | Software Developer | AI Enthusiast</h3>
 
 ---
 
@@ -18,18 +18,18 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ### 📌 Projects & Experience
-
-- 🧠 **Presentation Trainer** (Intern @Wondder)  
-  Speech processing for rhythm, prosody, and pronunciation analysis using Python
 
 - 📝 **Automated Essay Scoring**  
   ML/NLP system to evaluate student essays (75% accuracy using ASAP dataset)
@@ -43,19 +43,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halaowiss&show_icons=true&theme=tokyonight" alt="halaowiss github stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halaowiss&theme=tokyonight" alt="halaowiss github streak" />
-</p>
-
----
-
 ### 🙋‍♀️ Fun Facts
 - I moved from Syria 🇸🇾 to Germany 🇩🇪 to pursue my dream in AI  
-- I love building clean APIs and experimenting with NLP  
 - Currently improving my German (A2 level)
 
 ---
