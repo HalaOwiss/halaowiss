@@ -7,7 +7,6 @@
 🎓 Pursuing a Master's in Artificial Intelligence at BTU  
 💼 Former Software Developer at MTN Syria  
 💡 Passionate about Machine Learning, NLP, and real-world applications  
-📫 Reach me at: owisshala@gmail.com  
 
 ---
 
@@ -44,7 +43,8 @@
 ---
 
 ### 🙋‍♀️ Fun Facts
-- I moved from Syria 🇸🇾 to Germany 🇩🇪 to pursue my dream in AI  
+- 🔎 I love solving complex problems using data and am passionate about emerging technologies!
+- I moved from Syria to Germany to pursue my dream in AI
 - Currently improving my German (A2 level)
 
 ---
