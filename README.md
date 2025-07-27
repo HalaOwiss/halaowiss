@@ -1,7 +1,7 @@
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hala+Owiss!+%F0%9F%91%8B;AI+Developer+%7C+Software+Engineer;Machine+Learning+Explorer;Python+Coder;Java+Backend+Developer;Open+to+Opportunities!" /> 
 </h1>
-🚀 About Me
+<p align="center"> <em>"Turning data and code into intelligent solutions with a focus on innovation and usability."</em> </p>🚀 About Me
 I’m a passionate Software Developer and AI enthusiast with hands-on experience in machine learning, backend development, and REST API design.
 Currently pursuing a Master’s in Artificial Intelligence in Germany.
 
