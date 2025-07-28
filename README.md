@@ -6,37 +6,55 @@
 I’m a passionate Software Developer and AI enthusiast with hands-on experience in machine learning, backend development, and REST API design.
 Currently pursuing a Master’s in Artificial Intelligence in Germany.
 
-🧠 I enjoy solving real-world problems through AI, from emotion recognition to NLP-driven essay scoring.
-💻 Strong in Python, Spring Boot, and React.js, with a background in both enterprise applications and academic research.
+---
 
-🔭 Current Projects
-🔹 AI Developer Intern | Wondder, Berlin
-Developed the Presentation Trainer, analyzing speech and prosody with Python.
+🌍 Based in Cottbus, Germany  
+🎓 Master's in Artificial Intelligence @ BTU  
+💼 Ex-Software Developer at MTN Syria  
+💡 Passionate about building smart, scalable AI/ML solutions  
+📫 Contact: owisshala@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/halaowiss)
 
-Designed real-time feedback systems using rhythm and pronunciation analysis.
+---
 
-🔹 Freelance Web Developer | Owiss & Kollegen im Centro Kö
-Built a live Dental Clinic Website with React.js.
+### 🛠️ Languages & Tools:
 
-Focused on responsiveness, clean UX, and real-world deployment.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
 
-💼 Past Experience
-🔹 Digital Applications Developer | MTN Syria
-Engineered RESTful APIs using Spring Boot for core systems like the MyMTN App and Bulk SMS Platform.
+---
 
-Optimized Oracle SQL procedures for performance and maintainability.
+### 📌 Highlight Projects
 
-Debugged, refactored, and enhanced critical backend services.
+- 📝 **Automated Essay Scoring**  
+  NLP & ML-based scoring system trained on ASAP dataset (75% accuracy)
 
-🧠 Academic Projects
-Facial Emotion Recognition with CNNs using the FER2013 dataset.
+- 🦷 **Dental Clinic Website**  
+  Built with React.js for a real-world client in Germany  
+  🔗 [Visit Website](https://zahnzentrum-koenigslutter.de)
 
-Document Retrieval Models.
+- 🏢 **MTN Syria – Enterprise Applications Developer**  
+  Built APIs and Oracle SQL procedures for large-scale backend systems
 
-Automated Essay Scoring (NLP + ML) achieving 75% validation accuracy.
+---
+
 
 🛠️ Skills & Technologies
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> </p>
+
+---
 
 🌐 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/halaowiss/"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> <a href="https://github.com/HalaOwiss"> <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white" /> </a> <a href="mailto:owisshala@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> </a> </p>
