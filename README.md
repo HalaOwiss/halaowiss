@@ -16,8 +16,6 @@ Currently pursuing a Master’s in Artificial Intelligence in Germany.
 🎓 Master's in Artificial Intelligence @ BTU  
 💼 Ex-Software Developer at MTN Syria  
 💡 Passionate about building smart, scalable AI/ML solutions  
-📫 Contact: owisshala@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/halaowiss)
 
 ---
 
