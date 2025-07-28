@@ -38,6 +38,16 @@ Currently pursuing a Master’s in Artificial Intelligence in Germany.
 
 ---
 
+### 💼 Past Experience
+🔹 Digital Applications Developer | MTN Syria
+Engineered RESTful APIs using Spring Boot for core systems like the MyMTN App and Bulk SMS Platform.
+
+Optimized Oracle SQL procedures for performance and maintainability.
+
+Debugged, refactored, and enhanced critical backend services.
+
+---
+
 ### 📌 Highlight Projects
 
 - 📝 **Automated Essay Scoring**  
@@ -46,9 +56,6 @@ Currently pursuing a Master’s in Artificial Intelligence in Germany.
 - 🦷 **Dental Clinic Website**  
   Built with React.js for a real-world client in Germany  
   🔗 [Visit Website](https://zahnzentrum-koenigslutter.de)
-
-- 🏢 **MTN Syria – Enterprise Applications Developer**  
-  Built APIs and Oracle SQL procedures for large-scale backend systems
 
 
 ---
