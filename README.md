@@ -40,6 +40,7 @@ Currently pursuing a Master’s in Artificial Intelligence in Germany.
 
 ### 💼 Past Experience
 🔹 Digital Applications Developer | MTN Syria
+
 Engineered RESTful APIs using Spring Boot for core systems like the MyMTN App and Bulk SMS Platform.
 
 Optimized Oracle SQL procedures for performance and maintainability.
